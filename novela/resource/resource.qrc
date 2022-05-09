@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/imagens">
+        <file>movie.png</file>
+        <file>television.png</file>
+        <file>delete.png</file>
+        <file>exit.png</file>
+        <file>save.png</file>
+        <file>adicacao.png</file>
+        <file>lupa.png</file>
+    </qresource>
+    <qresource prefix="/tradutor">
+        <file>novela_ingles.qm</file>
+        <file>novela_portugues.qm</file>
+    </qresource>
+    <qresource prefix="/manual"/>
+</RCC>
